@@ -15,7 +15,7 @@ Add the following to the top line of the "common-auth" pam file
 auth optional mypam.so file /root/.test2.txt
 ~~~
 
-### To send to executable
+### To send to executable (file mult be execuable by the system)
 
 
 ~~~
