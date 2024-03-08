@@ -5,8 +5,7 @@ This is a pam modules that does all kinds of nasty stuff, like exec a program or
 
 ## USAGE:
 
-The modules sends username, password, remote host (if applicable), and service to a hex string
-Then that hex string is either saved to a file or sent to an executable on the server.
+The modules sends username, password, remote host (if applicable), and service to a hex string. Then that hex string is either saved to a file or sent to an executable on the server.
 
 ### To log to file
 
